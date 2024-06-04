@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\courseWork_MVC\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\CloudComputing_CW1\\courseWork_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC215B64-9900-4E91-8776-C95954B80899}|courseWork_MVC\\courseWork_MVC.csproj|c:\\users\\user\\onedrive\\desktop\\cloudcomputing_cw1\\coursework_mvc\\coursework_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC215B64-9900-4E91-8776-C95954B80899}|courseWork_MVC\\courseWork_MVC.csproj|solutionrelative:coursework_mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\CloudComputing_CW1\\courseWork_MVC\\courseWork_MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "courseWork_MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\CloudComputing_CW1\\courseWork_MVC\\courseWork_MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "courseWork_MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:18:37.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
